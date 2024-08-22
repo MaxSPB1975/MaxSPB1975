@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxSPB1975
 - 👀 I’m interested in HTML, CSS, WordPress, UI design, web-design, analitycs
-- 🌱 I’m currently learning HTML, CSS, WordPress, UI design
+- 🌱 I’m currently learning HTML, CSS, WordPress, UX/UI design
 - 💞️ I’m looking to collaborate on Web
 - 📫 How to reach me: dr.heart@list.ru
 
